@@ -1,1 +1,1 @@
-# tradingview-custom-indicator
+# Tradingview Custom Indicator Repo
